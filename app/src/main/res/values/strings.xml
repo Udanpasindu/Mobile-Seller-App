@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Mobile Seller</string>
+    <string name="Login">Login</string>
+    <string name= "SignUp">Sign Up</string>
+    <string name="Email">Email</string>
+    <string name="password">Password</string>
+    <string name="Fullname">Fullname</string>
+    <string name="Retypepassword">Re-type password</string>
+    <string name="Myprofile">Myprofile</string>
+    <string name="Iphone15pro">Iphone 15 pro</string>
+    <string name="Iphone12promax">Iphone 12 pro max</string>
+    <string name="Buy1">Buy</string>
+    <string name="Buy2">Buy</string>
+    <string name="Buy3">Buy</string>
+    <string name="Buy4">Buy</string>
+    <string name="Buy5">Buy</string>
+    <string name="Iphone11promax">Iphone 11 pro max</string>
+    <string name="SamsungGalaxys22ultra">Samsung Galaxy s22 ultra</string>
+    <string name="Iphone14promax">Iphone 14 pro max</string>
+    <string name="HiUdan">Hi Udan!</string>
+    <string name="Udanpasindujayasekara">Udan pasindu jayasekara</string>
+    <string name="Phonenumber">Phonenumber!</string>
+    <string name="Udanpasindu934gmailcom">Udanpasindu934gmailcom</string>
+
+</resources>
